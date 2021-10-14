@@ -1,5 +1,10 @@
-num1=int(input ("Enter any number :")
-Hours=num1/60
-minutes = num1\\60
-print ("The number :",num1)
-print ("Is equivalent to :",hours "hours",minutes "minutes")
+def  Number_to_time (num1)
+       h = Num1\\60
+       m = num1 % 60
+       if h > 1 :
+                   
+            h+="s"  
+                if m > 1:
+                     m+= "s"
+                  print("Time is :",h,m)
+      Number_to_time()        

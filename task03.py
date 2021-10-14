@@ -1,2 +1,5 @@
-name=input("Please enter name :")
-print ("Hello ",name)
+def Hello()
+         print("Hello Tshepo!")
+return
+
+Hello()

@@ -1,8 +1,8 @@
-vowels =[aeiou]
-name = String(input("Please enter name :")
-counter = 0
+def display_vowels (str)
+        vowels = set (aeiouAEIOU)
+             for word in str :
+               if word in vowels :
+                  count+=count
+                   print ("Nummber of vowels : ",count)
 
-for vowels in name :
-    if vowel in name :
-       counter=counter+1
-
+display_vowels(str)

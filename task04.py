@@ -1,8 +1,8 @@
-# even_or_odd
-num = int(input ("Enter any number :"))
-ans = num/2
-print ("The answer is :",ans")
-if ans\\2 :
-print ("Even")
-else :
-print ("Odd")
+def even_or_odd ():
+  Num = int
+    ans = Num/2
+        if num\\2:
+          print ("Even")
+             else :
+                   print("Odd")
+even_or_odd()

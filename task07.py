@@ -1,10 +1,12 @@
-//The temperature in Celsius and returns the temperature in Fahrenheit
-Temp_Cel = float (Input ("Temperature in celcious :")
-fahren =  (((5/9)*Temp_Cel)+32)
-print ("Temperature is :",fahren"F")
+def fah_celcious (farenheit):
+  fahren =  (((5/9)*Temp_Cel)+32)
+    print ("Temperature is :",fahren"F")
+      return
+ fah_celcious(farenheit)
 
-//The temperature in Fahrenheit and returns the temperature in Celsius
-
-Temp_fah = float (Input ("Temperature in Fahrenheit :")
-Temp_Cel = ((5/9)*(Temp_fah-32))
-print ("Temperature is :",Temp_cel"C")
+def celcious_fah (celcious):
+   Temp_Cel = ((5/9)*(Temp_fah-32))
+     print ("Temperature is :",Temp_cel"C")
+      return
+    celcious_fah (celcious)
+ 

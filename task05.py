@@ -1,7 +1,7 @@
-//Area of a triangle
-length = str (Input ("Enter the length :")
-Height = str (input ("Enter the height :")
-Bredth = str (input ("Enter the bredth :")
 
-Area = str ((1/2)bredth*height)
-print ("The area of the trianle is :",Area)
+def triangle_area (l,b,h)
+     s= (a+b+c)/2
+      A=(s*(s-l)*(s-b)*(s-h))**o.5
+        Print("Area is :",A)
+triangle_area()
+ 
